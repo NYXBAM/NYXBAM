@@ -3,6 +3,8 @@
 Welcome to my GitHub! I'm a curious and passionate developer working at the intersection of **backend engineering**, **embedded systems**, and **cybersecurity**.
 
 ---
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7D0&width=435&lines=Backend+Dev;Cybersecurity+Enthusiast;Rust+Learner;Computer+Vision+Explorer;IoT+Dev;)
+
 
 ## 🧠 About Me
 
@@ -29,6 +31,14 @@ Welcome to my GitHub! I'm a curious and passionate developer working at the inte
 | Notebooks | Jupyter, LangChain, OpenAI APIs |
 
 ---
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+
+**Backend:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
 ## 🔥 Currently Working On
 
@@ -45,6 +55,12 @@ Welcome to my GitHub! I'm a curious and passionate developer working at the inte
 - 📬 [NYXBAM@proton.me]
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=NYXBAM&color=blueviolet&style=flat-square)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NYXBAM&show_icons=true&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NYXBAM&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 > ⚡ “Code is a tool. Curiosity is the engine.”  
 > Let’s build something awesome, secure, and blazing fast.
