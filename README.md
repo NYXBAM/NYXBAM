@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm a curious and passionate developer working at the inte
 
 ## 📫 Let's Connect
 
-- 📬 [NYXBAM@proton.me]
+- 📬 [delirium.dev@proton.me]
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=NYXBAM&color=blueviolet&style=flat-square)
